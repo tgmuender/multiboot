@@ -1,4 +1,4 @@
-#multiboot
+# multiboot
 
 The script creates a bootable USB stick and installs Grub with the customized config.
 
